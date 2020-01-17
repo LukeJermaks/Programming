@@ -5,9 +5,9 @@ import time
 def s(x):
     time.sleep(x)
 
-print("Hiya love!")
+print("Hiya!")
 s(1)
-print("Hiya again love!")
+print("Hiya again!")
 
 
 
